@@ -1,0 +1,22 @@
+{
+  "name": "desafio-repositorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenzoaokiTbxtech/Desafio-Repositorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/KenzoaokiTbxtech/Desafio-Repositorio/issues"
+  },
+  "homepage": "https://github.com/KenzoaokiTbxtech/Desafio-Repositorio#readme"
+}
