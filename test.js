@@ -1,3 +1,4 @@
-import { Ola } from './index.js';
+import { Ola, HelloConsole } from './index.js';
 
 Ola()
+HelloConsole()
